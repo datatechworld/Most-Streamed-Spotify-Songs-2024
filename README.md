@@ -4,12 +4,12 @@ It provides extensive insights into each track's attributes, popularity, and pre
 The dataset includes information such as track name, artist, release date, ISRC, streaming statistics, and presence on platforms like YouTube, TikTok, and more.
 
 # Key Features
-* Track Name: Name of the song.
+* #Track Name: Name of the song.
 * Album Name: Name of the album the song belongs to.
 * Artist: Name of the artist(s) of the song.
-*Release Date: Date when the song was released.
-*ISRC: International Standard Recording Code for the song.
-*All Time Rank: Ranking of the song based on its all-time popularity.
+* Release Date: Date when the song was released.
+* ISRC: International Standard Recording Code for the song.
+* All Time Rank: Ranking of the song based on its all-time popularity.
 Track Score: Score assigned to the track based on various factors.
 Spotify Streams: Total number of streams on Spotify.
 Spotify Playlist Count: Number of Spotify playlists the song is included in.

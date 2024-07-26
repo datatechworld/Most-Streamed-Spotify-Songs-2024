@@ -218,4 +218,4 @@
     - Transform the data to analyze the total streams/views across different streaming services and visualize the results.
 
 ### Last Words
-I hope this code breakdown should give you a clear understanding of what each part of the code does and how it contributes to the overall analysis of the dataset.
+I hope this code breakdown gives you a clear understanding of what each part of the code does and how it contributes to the overall analysis of the dataset.

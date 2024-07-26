@@ -97,11 +97,5 @@ The dataset contains various features for each song, including:
 - **Cross-Platform Strategies**:
   - Ensuring a strong presence across multiple streaming services can maximize a song’s reach and discoverability.
 
-
-
-I hope this breakdown should give you a clear understanding of what each part of the code does and how it contributes to the overall analysis of the dataset.
-
-
-
 ### Last words
 I hope this comprehensive analysis provides valuable insights into the music streaming landscape, guiding strategic decisions to enhance business performance and maximize audience engagement.
